@@ -1,5 +1,4 @@
-Chapter 3: Getting Started with AI-Enabled Small Business
-=========================================================
+
 
 As Artificial Intelligence (AI) technology becomes more accessible, small businesses have the opportunity to leverage this technology to improve their operations and stay competitive. However, implementing AI technology requires careful planning and consideration. In this chapter, we will explore some considerations for getting started with AI-enabled small business.
 

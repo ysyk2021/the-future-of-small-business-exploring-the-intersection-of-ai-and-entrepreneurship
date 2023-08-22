@@ -1,5 +1,4 @@
-Chapter 7: Evaluating the Impact of AI on Small Business
-========================================================
+
 
 As small businesses increasingly adopt artificial intelligence (AI) technologies, it is important to evaluate their impact on business operations and success. In this chapter, we will explore how to measure the ROI and effectiveness of AI implementation in small business practice, as well as how to identify key performance metrics and goals for AI-enabled small business optimization.
 

@@ -1,5 +1,4 @@
-Chapter 6: The Impact of AI on Small Business
-=============================================
+
 
 Artificial Intelligence (AI) technology is rapidly transforming the business landscape, providing small businesses with new opportunities for growth and sustainability. In this chapter, we will explore the impact of AI on small business.
 
