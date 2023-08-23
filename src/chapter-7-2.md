@@ -1,5 +1,4 @@
 
-
 Small businesses are often limited in resources, and therefore must prioritize their efforts to maximize efficiency and profitability. The integration of artificial intelligence (AI) into small business operations can provide a significant boost towards achieving these goals. However, it is important to evaluate the impact of AI in order to identify key performance metrics and goals for optimization.
 
 Understanding AI's Impact on Small Business

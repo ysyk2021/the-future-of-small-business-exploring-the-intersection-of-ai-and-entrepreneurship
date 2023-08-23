@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology is rapidly transforming the business landscape, providing small businesses with new opportunities for growth and sustainability. In this chapter, we will explore the role of AI technology in enabling small business growth and sustainability.
 
 Overview of AI Technology
