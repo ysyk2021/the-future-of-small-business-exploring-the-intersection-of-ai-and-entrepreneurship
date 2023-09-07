@@ -12,3 +12,7 @@ Throughout the book, we'll provide real-world examples of how small businesses a
 By the end of this book, readers will have a solid understanding of the role of AI in the future of small business. They'll be equipped with the knowledge and tools necessary to leverage AI to drive growth, innovation, and sustainability in their own ventures.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
