@@ -1,5 +1,4 @@
-Chapter 7: Automating Repetitive Tasks and Workflows with AI-Enabled Process Automation and Robotic Process Automation (RPA)
-============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the transformative potential of AI-enabled process automation and Robotic Process Automation (RPA) for small businesses. Understanding and harnessing these technologies can lead to significant efficiency gains, cost savings, and an enhanced competitive edge for entrepreneurs.
 

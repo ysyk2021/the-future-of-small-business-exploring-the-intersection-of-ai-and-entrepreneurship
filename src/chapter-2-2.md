@@ -1,5 +1,4 @@
-Chapter 9: Different Types of AI Techniques and Applications for Small Business Management and Improvement
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic world of entrepreneurship, small businesses are increasingly turning to various Artificial Intelligence (AI) techniques to manage and improve their operations. This chapter delves into the diverse range of AI techniques and their applications that can empower small businesses to thrive.
 

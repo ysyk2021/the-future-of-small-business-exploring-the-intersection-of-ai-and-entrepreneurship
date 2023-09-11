@@ -1,5 +1,4 @@
-Chapter 14: Emerging Trends and Opportunities in the Intersection of AI and Small Business
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of small business and entrepreneurship, staying ahead of emerging trends and seizing new opportunities is crucial. This chapter explores the exciting developments at the intersection of AI and small business, highlighting the potential for innovation and growth.
 

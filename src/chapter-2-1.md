@@ -1,5 +1,4 @@
-Chapter 7: Basic Concepts and Processes of AI Algorithms for Business Automation and Optimization
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of entrepreneurship, small businesses are increasingly turning to Artificial Intelligence (AI) algorithms to automate and optimize their operations. This chapter provides an overview of the fundamental concepts and processes of AI algorithms for business automation and optimization.
 

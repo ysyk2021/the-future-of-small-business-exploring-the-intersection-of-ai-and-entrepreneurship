@@ -1,5 +1,4 @@
-Chapter 12: Selecting the Right AI Tools and Platforms for Your Small Business Needs
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of entrepreneurship, choosing the appropriate AI tools and platforms is a critical decision for small businesses. This chapter guides you through the process of selecting the right AI solutions tailored to your specific business requirements.
 

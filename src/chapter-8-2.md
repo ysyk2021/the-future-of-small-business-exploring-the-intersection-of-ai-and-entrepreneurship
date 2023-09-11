@@ -1,5 +1,4 @@
-Chapter 13: Challenges and Risks of AI Adoption in Small Business and Entrepreneurship
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As small businesses and entrepreneurs embrace the potential of AI, it's essential to recognize the challenges and risks that come with AI adoption. This chapter explores the hurdles and potential pitfalls that businesses may encounter on their AI journey.
 
